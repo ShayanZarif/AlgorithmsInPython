@@ -12,7 +12,6 @@ class Node:
   def get_value(self):
     return self.value
 
-# Add your code below:
 yacko = Node("likes to yak")
 wacko = Node("has a penchant for hoarding snacks")
 dot = Node("enjoys spending time in movie lots")
